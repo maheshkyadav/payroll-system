@@ -1,0 +1,8 @@
+Name: Michelle White
+Income: $720000.00
+Social Security: $20000.00
+Insurance: $5000.00
+Allowance: $1000.00
+Bonus: $500.00
+Employee Provident: $1200.00
+Tax: $24530.00
